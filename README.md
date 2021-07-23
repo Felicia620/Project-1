@@ -20,7 +20,7 @@ Why?
 - Social discourse of income inequality between races
 
 CODE 
-(please refer to Project 1 for ALL Code)
+(please refer to file "Main Code" for ALL Code Used)
 API Call:
 
 <img width="938" alt="Screen Shot 2021-07-20 at 8 23 50 PM" src="https://user-images.githubusercontent.com/83233764/126723943-9fab1e9b-e0db-4148-afa2-cadc83f48f8d.png">
